@@ -2,6 +2,10 @@
 
 ## Unreleased
 
+- **Black, White, Black 2 and White 2: the Bag's messages stay readable** when selecting
+  or using an item, including teaching a TM. The item card moves below the message box
+  instead of covering its text, and includes the move's type, power, accuracy and PP.
+
 - **A new address: github.com/mamesj/pokemon-fulldex** (the old pokemon-ds-widescreen address
   still leads there). The bug report link, the PC download's `README.txt` and the Linux
   AppImage's updates use it.
